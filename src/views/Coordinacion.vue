@@ -45,9 +45,12 @@
     max-width: 1000px;
     margin: 0 auto 40px;
     padding: 30px;
-    background: rgba(255,255,255,0.93);
-    border-radius: 15px;
-    box-shadow: 0 5px 20px rgba(0,0,0,0.25);
+    line-height: 1.7;
+    background: rgba(255, 255, 255, 0.65);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.65);
+    border-radius: 15px;;
 }
 
 .descripcion h1 {
@@ -71,9 +74,12 @@
     display: grid;
     grid-template-columns: 35% 65%;
     overflow: hidden;
-    background: rgba(255,255,255,0.94);
-    border-radius: 15px;
-    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+    line-height: 1.7;
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.80);
+    border-radius: 15px;;
 }
 
 .foto {

@@ -136,12 +136,20 @@
 }
 
 .descripcion {
-    max-width: 750px;
+    max-width: 800px;
     margin: 0 auto 35px;
-    color: #838181;
+    color: #3a3838;
     font-size: 19px;
     line-height: 1.7;
+    background: rgba(255, 255, 255, 0.45);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.45);
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
 }
+
 
 .informacion {
     width: 100%;
@@ -158,34 +166,56 @@
 }
 
 .tarjeta {
+    position: relative;
+    overflow: hidden;
+
     padding: 30px;
-
     background-color: white;
-
     border-radius: 10px;
-
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 
-    transition: 0.3s ease;
+    transition: transform 0.1.5s ease;
+}
+
+.tarjeta::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -120%;
+    width: 70%;
+    height: 100%;
+
+    background: linear-gradient(
+        120deg,
+        transparent,
+        rgba(255, 255, 255, 0.75),
+        transparent
+    );
+
+    transform: skewX(-20deg);
+    transition: left 1.5s ease;
+}
+
+.tarjeta:hover::before {
+    left: 130%;
 }
 
 .tarjeta:hover {
     transform: translateY(-5px);
 }
 
+
 .tarjeta h2 {
     margin-bottom: 15px;
-
     color: #39a900;
-
     font-size: 22px;
 }
 
 .tarjeta p {
     color: #555;
-
     line-height: 1.7;
 }
+
 
 .footer {
     width: 100%;
