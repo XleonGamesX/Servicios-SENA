@@ -18,7 +18,7 @@
 
     <q-drawer v-model="leftDrawerOpen" style="display: flex; justify-content: center; align-items: center; flex-direction: column;" side="left" behavior="mobile" bordered>
       <img class="imagen-barra-desplegable" src="/images/SENA.webp" alt="logo SENA">
-      <p class="titulo-servicios" style="font-size: 26px;">Servicios SENA:</p>
+      <p class="titulo-servicios" style="font-size: 26px;">Servicios SENA</p>
       <q-btn class="bg-light-green" to="/">Inicio</q-btn><br>
       <q-btn class="bg-light-green" to="/enfermeria">Enfermeria</q-btn><br>
       <q-btn class="bg-light-green" to="/bienestar">Bienestar</q-btn><br>
