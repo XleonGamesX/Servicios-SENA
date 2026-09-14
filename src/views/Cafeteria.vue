@@ -2,7 +2,7 @@
     <div class="bienestar">
         <section class="descripcion">
             <h1>Cafetería SENA</h1>
-            <p>Ventas de atención al cliente del SENA (comidas).</p>
+            <p>La cafetería ofrece servicios de atención y venta de alimentos para los aprendices, instructores y demás personas que hacen parte del SENA. Allí se pueden adquirir diferentes comidas y productos para consumir durante la jornada. Su servicio busca brindar una opción práctica de alimentación dentro de las instalaciones.</p>
         </section>
         <section class="encargada">
             <div class="foto">

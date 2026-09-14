@@ -2,7 +2,7 @@
     <div class="bienestar">
         <section class="descripcion">
             <h1>Enfermería</h1>
-            <p>Aquí se ofrecen todos los servicios de promoción y prevención de enfermedades, así como atención básica en primeros auxilios.</p>
+            <p>En este espacio se ofrecen servicios de promoción y prevención para el cuidado de la salud de los aprendices y funcionarios. También se brinda atención básica en primeros auxilios ante situaciones que puedan presentarse durante la jornada. Además, se orienta a las personas sobre hábitos saludables y cuidados que contribuyen a prevenir enfermedades.</p>
         </section>
         <section class="encargada">
             <div class="foto">

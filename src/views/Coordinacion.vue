@@ -2,7 +2,7 @@
     <div class="bienestar">
         <section class="descripcion">
             <h1>Coordinación Académica</h1>
-            <p>Apoyamos el tema de novedades de los aprendices, retiros, deserción, traslados y aplazamientos que corresponden a la formación titulada del SENA. También se apoya con el tema de la programación de los instructores para la formación y la logística de los ambientes para que estén en óptimas condiciones.</p>
+            <p>La coordinación brinda apoyo en diferentes situaciones relacionadas con los aprendices y su proceso de formación en el SENA. Se encarga de atender novedades como retiros, deserciones, traslados y aplazamientos. También apoya la organización de los instructores y la programación de los espacios de formación, procurando que los ambientes estén disponibles y en buenas condiciones para las actividades.</p>
         </section>
         <section class="encargada">
             <div class="foto">

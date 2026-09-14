@@ -2,7 +2,7 @@
     <div class="bienestar">
         <section class="descripcion">
             <h1>Biblioteca</h1>
-            <p>Ofrece: consultas en sala, préstamos a domicilio, préstamo interbibliotecario (PIP), talleres de lectura, capacitaciones, acceso a TIC, asesorías en búsqueda de información y asesorías en uso adecuado del catálogo bibliográfico.</p>
+            <p>La biblioteca ofrece diferentes servicios para apoyar el aprendizaje y la formación de los aprendices. Cuenta con consultas en sala, préstamos de libros a domicilio y préstamo interbibliotecario (PIP). También realiza talleres de lectura, capacitaciones, asesorías para buscar información y orientación en el uso adecuado del catálogo bibliográfico y las herramientas disponibles.</p>
         </section>
         <section class="encargada">
             <div class="foto">
