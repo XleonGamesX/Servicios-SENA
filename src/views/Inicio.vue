@@ -97,7 +97,7 @@
             rgba(0, 0, 0, 0.55),
             rgba(0, 0, 0, 0.55)
         ),
-        url("/images/SENA-AGROTURISTICO-SAN-GIL.jpg");
+        url("/images/SENA-fachada.png");
 
     background-size: cover;
     background-position: center;
