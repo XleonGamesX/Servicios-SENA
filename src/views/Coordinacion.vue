@@ -12,7 +12,7 @@
                 <h2>Información de contacto</h2>
                 <p><strong>Nombre encargado:</strong> Luis Carlos Reina</p>
                 <p><strong>Cargo:</strong> Coordinador académico</p>
-                <p><strong>Teléfono:</strong> No disponible</p>
+                <p><strong>Teléfono:</strong> 316 6783027</p>
                 <p><strong>Correo:</strong> lreinas@sena.edu.com</p>
                 <h3>Horarios de atención</h3>
                 <p>7:30 a. m. - 12:00 p. m. (Lunes a viernes)</p>

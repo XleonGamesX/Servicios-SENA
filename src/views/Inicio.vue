@@ -1,7 +1,6 @@
 <template>
     <div class="inicio">
 
-        <!-- Contenido principal -->
         <section class="hero">
             <div class="hero-contenido">
                 <span class="etiqueta">SENA - Centro Agroturístico</span>
@@ -17,7 +16,6 @@
             </div>
         </section>
 
-        <!-- Información -->
         <section class="informacion">
             <div class="tarjeta">
                 <h2>Formación para el futuro</h2>
@@ -45,7 +43,6 @@
             </div>
         </section>
 
-        <!-- Footer -->
         <footer class="footer">
             <div class="footer-contenido">
 

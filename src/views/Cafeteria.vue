@@ -10,8 +10,8 @@
             </div>
             <div class="informacion">
                 <h2>Información de contacto</h2>
+                <p><strong>Nombre encargada:</strong> Luisa Carreño</p>
                 <p><strong>Cargo:</strong> Coordinadora de cafetería</p>
-                <p><strong>Ficha Cocina:</strong> 3410173</p>
                 <p><strong>Teléfono:</strong> 3223038451</p>
                 <p><strong>Correo:</strong> lcarreno@sena.edu.com</p>
                 <h3>Horarios</h3>
