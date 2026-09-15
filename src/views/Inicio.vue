@@ -138,10 +138,10 @@
     color: #2c2b2b;
     font-size: 19px;
     line-height: 1.7;
-    background: rgba(255, 255, 255, 0.70);
+    background: rgba(255, 255, 255, 0.80);
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
-    border: 1px solid rgba(255, 255, 255, 0.70);
+    border: 1px solid rgba(255, 255, 255, 0.80);
     border-radius: 15px;
     padding: 15px;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
